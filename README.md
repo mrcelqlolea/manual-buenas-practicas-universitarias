@@ -8,3 +8,5 @@
 **Integrantes**:  
 - Tomás Cabezas - [Ingeniería industrial] 
 - Jhulanny Berrios - [Ingeniería industrial]  
+
+> *Última actualización: [fecha de hoy]*  
