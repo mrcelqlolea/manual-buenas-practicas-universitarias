@@ -10,6 +10,6 @@
 
 | Tarea           | Responsable | Fecha   |
 |:-----------------:|:------------:|:---------:|
-|  Normas APA      | Tomás         | Jul/2025 |  
-| Revisión final  | Jhulanny      | Jul/2025|
+|  Normas APA      | Nombre        | Oct/30 |  
+| Revisión final  | Nombre     | Oct/30|
 
