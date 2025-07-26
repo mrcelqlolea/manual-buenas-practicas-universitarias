@@ -5,6 +5,9 @@
 - [Principios clave](/documentos/2-principios-clave.md)  
 - [Herramientas](/referencias/herramientas.md)  
 
+## 📥 Descargar  
+[Manual en PDF](/manual_final.pdf)  
+
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
 - Jhulanny Berrios - Ingeniería industrial]  
