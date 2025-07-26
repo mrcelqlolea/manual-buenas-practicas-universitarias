@@ -9,4 +9,4 @@
 - Tomás Cabezas - [Ingeniería industrial] 
 - Jhulanny Berrios - [Ingeniería industrial]  
 
-> *Última actualización: [fecha de hoy]*  
+> *Última actualización: [25/07/2025]*  
