@@ -6,7 +6,7 @@
 - [Herramientas](/referencias/herramientas.md)  
 
 **Integrantes**:  
-- Tomás Cabezas - [Ingeniería industrial] 
-- Jhulanny Berrios - [Ingeniería industrial]  
+- Tomás Cabezas - Ingeniería industrial] 
+- Jhulanny Berrios - Ingeniería industrial]  
 
-> *Última actualización: [25/07/2025]*  
+> *Última actualización: 25/07/2025*  
