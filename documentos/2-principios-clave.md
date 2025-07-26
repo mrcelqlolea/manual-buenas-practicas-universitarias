@@ -8,8 +8,7 @@
 ## 2. Diseño Visual  
 - Incluye tablas para planificar:  
 
-| Tarea           | Responsable | Fecha   |
-|:-----------------:|:------------:|:---------:|
-|  Normas APA      | Nombre        | Oct/30 |  
-| Revisión final  | Nombre     | Oct/30|
-
+| Tarea           | Responsable  | Fecha       |  
+|:---------------:|:------------:|:-----------:|  
+| Investigación   | Nombre 1     | DD/MM/AAAA  |  
+| Redacción       | Nombre 2     | DD/MM/AAAA  
