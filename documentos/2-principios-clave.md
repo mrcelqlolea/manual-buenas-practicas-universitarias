@@ -9,6 +9,7 @@
 - Incluye tablas para planificar:  
 
 | Tarea           | Responsable | Fecha   |
-|-----------------|------------|---------|
-| Investigación   | María      | 10/Oct  |
-| Redacción       | Juan       | 15/Oct  |
+|:-----------------:|:------------:|:---------:|
+|  Normas APA      | Tomás         | 25/Jul/2025 |  
+| Revisión final  | Jhulanny      | 30/Jul/2025|
+
