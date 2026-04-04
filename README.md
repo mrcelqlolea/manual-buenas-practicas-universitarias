@@ -6,7 +6,7 @@
 - [Herramientas](/referencias/herramientas.md)  
 
 ## 📥 Descargar  
-[Manual en PDF](/Manual_Final.pdf)  
+📄 [Descargar manual en PDF](manual.pdf) 
 
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
