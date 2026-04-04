@@ -10,4 +10,4 @@
 
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
-- Jhulanny Berrios - Ingeniería industrial]  
+- Pedro Guerrero - Ingeniería industrial]  
