@@ -1,4 +1,4 @@
-# 📝 Ejemplos Reales  
+# 📝 Ejemplos Reals  
 
 ## Portada perfecta  
 ```mermaid
