@@ -7,6 +7,6 @@
 
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
-- Jhulanny Berrios - Ingeniería industrial]  
+- Pedro Guerrero - Ingeniería industrial]  
 
-> *Última actualización: 25/07/2025*  
+> *Última actualización: 04/04/2026*  
