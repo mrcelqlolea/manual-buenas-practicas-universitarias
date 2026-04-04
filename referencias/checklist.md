@@ -1,4 +1,4 @@
-# ✅ Checklist Final  
+# ✅ Checklist Fina  
 
 - [ ] Revisar normas APA.  
 - [ ] Confirmar fechas de entrega.  
