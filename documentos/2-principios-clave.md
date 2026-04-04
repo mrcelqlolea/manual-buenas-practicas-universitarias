@@ -1,4 +1,4 @@
-# ✨ 3 Principios para Trabajos Impecable  
+# ✨ 3 Principios para Trabajos Impecables  
 
 ## 1. Claridad  
 - Usa párrafos cortos.  
