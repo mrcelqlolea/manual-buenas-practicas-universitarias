@@ -1,4 +1,4 @@
-# 📚 Introducción: Manual de Buenas Prácticas Universitarias  
+# 📚 Introducción: Manual de Buenas Prácticas Universitaria  
 
 ## ¿Por qué es importante?  
 
