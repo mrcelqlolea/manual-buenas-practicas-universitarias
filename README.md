@@ -7,7 +7,6 @@
 
 ## 📥 Descargar  
 📄 [Descargar manual PDF](Manual%20Final.pdf)
-📄 [Descargar manual PDF](https://raw.githubusercontent.com/mrcelqlolea/manual-buenas-practicas-universitarias/main/Welcome%20file.pdf?raw=true)
 
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
