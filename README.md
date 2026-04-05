@@ -7,7 +7,7 @@
 
 ## 📥 Descargar  
 📄 [Descargar manual PDF](Manual%20Final.pdf)
-
+📄 [Descargar manual en Word](https://raw.githubusercontent.com/tu-usuario/tu-repo/main/manual.docx)
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
 - Pedro Guerrero - Ingeniería industrial]  
