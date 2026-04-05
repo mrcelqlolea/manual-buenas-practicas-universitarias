@@ -7,7 +7,8 @@
 
 ## 📥 Descargar  
 📄 [Descargar manual PDF](Manual%20Final.pdf)
-📄 [Descargar manual PDF](Manual%20Final.pdf?raw=true)
+📄 [Descargar manual PDF](manual.pdf?raw=true)
+
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
 - Pedro Guerrero - Ingeniería industrial]  
