@@ -7,7 +7,7 @@
 
 ## 📥 Descargar  
 📄 [Descargar manual PDF](Manual%20Final.pdf)
-📄 [Descargar manual PDF](blob:https://github.com/f0894cce-1131-4e25-a0c8-96d9101931ef)
+📄 [Descargar manual PDF](https://github.com/juanperez/mi-repositorio/raw/main/Manual%20Final.pdf?raw=true)
 
 **Integrantes**:  
 - Tomás Cabezas - Ingeniería industrial] 
